@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Send to Discord via Server
+// @name         Reluctant Horrors Request Money Script
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Send messages to a server which forwards to Discord
-// @author       You
+// @description  Reluctant Horrors Request Money Script
+// @author       Beta [1704008]
 // @match        https://www.torn.com/factions.php*
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
